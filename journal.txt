@@ -1,7 +1,7 @@
 Author: Charis Cook
 Title: BEST PAPER EVER
 
-Abstract:
+Abstract: Plants are awesome!
 
 Introduction:
 Data: Collect data in the future
