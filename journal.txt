@@ -4,6 +4,6 @@ Title: BEST PAPER EVER
 Abstract:
 
 Introduction:
-Data:
-Analysis:
+Data: Collect data in the future
+Analysis: To do once data is collected
 Conclusion:
